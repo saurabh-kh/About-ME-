@@ -8,6 +8,6 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 - 👨 Know more about me at 
 
 ### My Recent projects 
-EDA Zomato Bangalore 
+EDA Zomato Bangalore[  https://github.com/saurabh-kh/EDA-Project ]
 
 ### Skills
