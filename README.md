@@ -7,7 +7,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 - 🤝 Open for job in  analytics,data science and python
 
 ### My Recent projects 
-EDA Zomato Bangalore[  https://github.com/saurabh-kh/EDA-Project ]
+https://github.com/saurabh-kh?tab=repositories
 
 ### Skills
 Python, SQL
